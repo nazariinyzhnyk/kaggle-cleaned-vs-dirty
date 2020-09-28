@@ -1,4 +1,4 @@
-# SoftServe DS Hackathon 2020
+# Computer Vision binary classification
 
 Binary classification Computer Vision problem: 
 classify whether plate is clean or dirty. [Kaggle competition](https://www.kaggle.com/c/platesv2/overview).
